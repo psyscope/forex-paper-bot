@@ -1,13 +1,22 @@
 {
- "last_data_date": "2026-11-18",
- "days_of_history": 37,
- "equity": 10000.0,
- "return_pct": 0.0,
+ "last_data_date": "2026-11-20",
+ "days_of_history": 39,
+ "equity": 10033.77,
+ "return_pct": 0.34,
  "realized_equity": 10000.0,
  "closed_trades": 0,
  "win_rate_pct": null,
- "max_drawdown_pct": 0.0,
- "open_positions": {},
+ "max_drawdown_pct": 0.02,
+ "open_positions": {
+  "GBPUSD": {
+   "side": -1,
+   "entry_date": "2026-11-19",
+   "entry": 1.31513,
+   "units": 13475,
+   "stop": 1.32255,
+   "last": 1.31247
+  }
+ },
  "trades": [],
  "trend_filter": "none yet (<50 days)"
 }

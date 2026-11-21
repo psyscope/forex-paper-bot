@@ -6,3 +6,4 @@ Added 2026-11-20 at Tim's request: a separate $10,000 carry line (carry.py): lon
 
 | Run date | Data through | Breakout equity | Breakout return | Carry equity | Carry return | Open positions | Closed trades | Notes |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-21 | 2026-11-20 | 10033.77 | +0.34% | 9890.42 | -1.10% | GBPUSD short 1.31513 | 0 | manual run; added 2026-11-19, 2026-11-20; new GBPUSD short at 1.31513 (2026-11-19); carry rebalance 2026-11-19: AUD/CHF |
