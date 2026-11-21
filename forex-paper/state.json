@@ -1,0 +1,13 @@
+{
+ "last_data_date": "2026-11-18",
+ "days_of_history": 37,
+ "equity": 10000.0,
+ "return_pct": 0.0,
+ "realized_equity": 10000.0,
+ "closed_trades": 0,
+ "win_rate_pct": null,
+ "max_drawdown_pct": 0.0,
+ "open_positions": {},
+ "trades": [],
+ "trend_filter": "none yet (<50 days)"
+}

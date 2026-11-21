@@ -1,0 +1,8 @@
+# Forex paper bot log
+
+Paper account, $10,000 start, no real money or broker. Data: ECB daily euro reference rates (one fix a day around 16:00 CET; Yahoo and other price feeds are blocked here). Strategy and costs: see the docstring at the top of sim.py.
+Price history seeded 2026-11-20 with ECB rates 2026-09-29 to 2026-11-18. Trading starts with data after 2026-11-18. Test runs 2026-11-23 to 2026-12-18.
+Added 2026-11-20 at Tim's request: a separate $10,000 carry line (carry.py): long the highest-rate G10 currency vs the lowest, monthly rebalance, spread cost. Starting pick: long AUD (4.85%) / short CHF (0.00%). Rates in policy_rates.csv.
+
+| Run date | Data through | Breakout equity | Breakout return | Carry equity | Carry return | Open positions | Closed trades | Notes |
+|---|---|---|---|---|---|---|---|---|
