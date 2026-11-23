@@ -1,8 +1,8 @@
 {
- "last_data_date": "2026-11-20",
- "days_of_history": 39,
- "equity": 10033.77,
- "return_pct": 0.34,
+ "last_data_date": "2026-11-23",
+ "days_of_history": 40,
+ "equity": 10101.45,
+ "return_pct": 1.01,
  "realized_equity": 10000.0,
  "closed_trades": 0,
  "win_rate_pct": null,
@@ -14,7 +14,15 @@
    "entry": 1.31513,
    "units": 13475,
    "stop": 1.32255,
-   "last": 1.31247
+   "last": 1.30735
+  },
+  "EURUSD": {
+   "side": -1,
+   "entry_date": "2026-11-23",
+   "entry": 1.0939,
+   "units": 13459,
+   "stop": 1.10133,
+   "last": 1.0939
   }
  },
  "trades": [],

@@ -1,10 +1,10 @@
 {
- "last_data_date": "2026-11-20",
- "equity": 9890.42,
- "return_pct": -1.1,
+ "last_data_date": "2026-11-23",
+ "equity": 9827.87,
+ "return_pct": -1.72,
  "holding": "long AUD / short CHF",
  "rate_diff_pct": 4.85,
- "max_drawdown_pct": 1.1,
+ "max_drawdown_pct": 1.72,
  "rebalances": [
   {
    "date": "2026-11-19",
