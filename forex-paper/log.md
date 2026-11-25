@@ -9,3 +9,4 @@ Added 2026-11-20 at Tim's request: a separate $10,000 carry line (carry.py): lon
 | 2026-11-21 | 2026-11-20 | 10033.77 | +0.34% | 9890.42 | -1.10% | GBPUSD short 1.31513 | 0 | manual run; added 2026-11-19, 2026-11-20; new GBPUSD short at 1.31513 (2026-11-19); carry rebalance 2026-11-19: AUD/CHF |
 | 2026-11-23 | 2026-11-23 | 10101.45 | +1.01% | 9827.87 | -1.72% | GBPUSD short 1.31513; EURUSD short 1.0939 | 0 | added 2026-11-23; new EURUSD short at 1.0939 (2026-11-23) |
 | 2026-11-24 | 2026-11-24 | 10036.19 | +0.36% | 9840.85 | -1.59% | GBPUSD short 1.31513; EURUSD short 1.0939 | 0 | added 2026-11-24 |
+| 2026-11-25 | 2026-11-25 | 10125.27 | +1.25% | 9657.00 | -3.43% | GBPUSD short 1.31513; EURUSD short 1.0939 | 0 | added 2026-11-25 |
